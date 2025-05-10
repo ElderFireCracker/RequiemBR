@@ -227,56 +227,55 @@
 		/obj/item/vamp/keys/npc,
 		/obj/item/stack/dollar/rand
 	)
-
 	male_phrases = list(
-		"Need something? Or are you just trying to waste my time?",
-		"What's up?",
-		"What'd you say?",
-		"I'm late, my wife is gonna kill me.",
-		"You heard about the new place in town..?",
-		"Can't speak right now.",
-		"Good night I guess?",
+		"Precisa de algo? Ou só está tentando perder meu tempo?",
+		"Qual é a boa?",
+		"O que você disse?",
+		"Estou atrasado, minha esposa vai me matar.",
+		"Você ouviu falar do novo lugar na cidade..?",
+		"Não posso falar agora.",
+		"Boa noite, eu acho?",
 		"Guh...",
-		"I dunno what to say.",
-		"That's all, folks."
+		"Não sei o que dizer.",
+		"É isso, pessoal."
 	)
 	neutral_phrases = list(
-		"What do you need, mate?",
-		"Do you need something?",
-		"Can you repeat what you were saying?",
-		"I'm late, don't interrupt me.",
-		"Check the bar if you want somebody to bother...",
-		"Can't speak right now.",
-		"Goodnight, I guess?",
+		"O que você precisa, amigo?",
+		"Você precisa de algo?",
+		"Pode repetir o que estava dizendo?",
+		"Estou atrasado, não me interrompa.",
+		"Procure no bar se quiser alguém para incomodar...",
+		"Não posso falar agora.",
+		"Boa noite, eu acho?",
 		"Guh...",
-		"I dunno what to say.",
-		"That's all, folks."
+		"Não sei o que dizer.",
+		"É isso, pessoal."
 	)
 	random_phrases = list(
-		"Hey, mate!",
-		"I miss my beer...",
-		"Everything okay?",
-		"Hello.",
-		"Haven't I seen you around before?",
-		"Something wrong here.",
-		"Oooh, dude..."
+		"E aí, amigo!",
+		"Saudades da minha cerveja...",
+		"Tudo certo?",
+		"Olá.",
+		"Não te vi por aí antes?",
+		"Tem algo estranho aqui.",
+		"Ooooh, cara..."
 	)
 	answer_phrases = list(
-		"Trying...",
-		"Awesome.",
-		"Bad, mate.",
-		"You picked wrong person.",
-		"Yeah, right.",
+		"Tentando...",
+		"Incrível.",
+		"Ruim, amigo.",
+		"Você escolheu a pessoa errada.",
+		"Sim, claro.",
 		"O'kaay...",
-		"Nice."
+		"Legal."
 	)
 	help_phrases = list(
-		"Oh God!",
-		"Go away!!",
-		"What the hell is happening?!",
-		"Stop!",
-		"Someone, help!",
-		"Mommy!"
+		"Ó Deus!",
+		"Saia daqui!!",
+		"O que diabos está acontecendo?!",
+		"Parem!",
+		"Alguém, ajuda!",
+		"Mamãe!"
 	)
 
 /datum/socialrole/usualfemale
@@ -368,52 +367,52 @@
 					/obj/item/stack/dollar/rand)
 
 	female_phrases = list(
-		"What do you need?",
-		"Do you need something?",
-		"Do I really need to answer?",
-		"I'm late.",
-		"Pervert...",
-		"Can't speak right now.",
-		"Buy yourself a watch",
-		"Hey.",
-		"Go away."
+		"O que você precisa?",
+		"Você precisa de algo?",
+		"Eu realmente preciso responder?",
+		"Estou atrasada.",
+		"Pervertido...",
+		"Não posso falar agora.",
+		"Compre um relógio.",
+		"Ei.",
+		"Vá embora."
 	)
 	neutral_phrases = list(
-		"What do you need?",
-		"Do you need something?",
-		"Do I really need to answer?",
-		"I'm late.",
-		"Pervert...",
-		"Can't speak right now.",
-		"Buy yourself a watch",
-		"Hey.",
-		"Go away."
+		"O que você precisa?",
+		"Você precisa de algo?",
+		"Eu realmente preciso responder?",
+		"Estou atrasada.",
+		"Pervertido...",
+		"Não posso falar agora.",
+		"Compre um relógio.",
+		"Ei.",
+		"Vá embora."
 	)
 	random_phrases = list(
-		"Hey, fatso!",
-		"I miss my beer...",
-		"What's up?",
-		"Heyyyyy.",
-		"Do I know you?",
-		"There's something wrong with this city, you know?",
-		"Oh, wow."
+		"Ei, gorducho!",
+		"Saudades da minha cerveja...",
+		"Qual é a boa?",
+		"Eiiii.",
+		"Eu te conheço?",
+		"Tem algo errado com esta cidade, sabia?",
+		"Ah, nossa."
 	)
 	answer_phrases = list(
-		"I'm trying...",
-		"Crazy.",
-		"Things aren't good, baby.",
-		"You mixed me up with someone else.",
-		"Yeah, exactly.",
-		"Okay...",
-		"Fine."
+		"Estou tentando...",
+		"Loucura.",
+		"As coisas não estão boas, querido.",
+		"Você me confundiu com outra pessoa.",
+		"Sim, exatamente.",
+		"Tá bom...",
+		"Beleza."
 	)
 	help_phrases = list(
-		"Oh God!",
-		"Go away!!",
-		"What the heck is happening?!",
-		"Stop!",
-		"Someone, help!",
-		"Mommy!"
+		"Ó Deus!",
+		"Saia daqui!!",
+		"O que diabos está acontecendo?!",
+		"Parem!",
+		"Alguém, ajuda!",
+		"Mamãe!"
 	)
 
 /datum/socialrole/poormale
@@ -492,33 +491,32 @@
 							/obj/item/clothing/neck/vampire/scarf/blue,
 							/obj/item/clothing/neck/vampire/scarf/green,
 							/obj/item/clothing/neck/vampire/scarf/white)
-
-	male_phrases = list("Fuck, shit, daa-amn...",
-											"We're fucked!",
+	male_phrases = list("Droga, merda, ca-ra-lho...",
+											"Estamos ferrados!",
 											"Grubrhggsmm...",
 											"Brrr.",
-											"Drunk...")
-	neutral_phrases = list("Fuck, shit, daa-amn...",
-											"We're fucked!",
+											"Bêbado...")
+	neutral_phrases = list("Droga, merda, ca-ra-lho...",
+											"Estamos ferrados!",
 											"Grubrhggsmm...",
 											"Brrr.",
-											"Drunk...")
-	random_phrases = list("Fuck, shit, daa-amn...",
-											"We're fucked!",
+											"Bêbado...")
+	random_phrases = list("Droga, merda, ca-ra-lho...",
+											"Estamos ferrados!",
 											"Grubrhggsmm...",
 											"Brrr.",
-											"Drunk...")
-	answer_phrases = list("Fuck, shit, daa-amn...",
-											"We're fucked!",
+											"Bêbado...")
+	answer_phrases = list("Droga, merda, ca-ra-lho...",
+											"Estamos ferrados!",
 											"Grubrhggsmm...",
 											"Brrr.",
-											"Drunk...")
+											"Bêbado...")
 	help_phrases = list("Aaaugh!",
 											"AAAAHHHH!!",
-											"What da' fuck? WHO'RE YOU?!",
-											"Shit!",
-											"Ass!",
-											"Dick!")
+											"Que porra é essa? QUEM É VOCÊ?!",
+											"Merda!",
+											"Desgraça!",
+											"Idiota!")
 
 /datum/socialrole/poorfemale
 	s_tones = list("albino",
@@ -603,33 +601,42 @@
 	uniforms = list(/obj/item/clothing/under/vampire/homeless/female)
 	suits = list(/obj/item/clothing/suit/vampire/coat/alt)
 	hats = list(/obj/item/clothing/head/vampire/beanie/homeless)
-
-	female_phrases = list("Fuck, shit, daa-amn...",
-											"We're fucked!",
-											"Grubrhggsmm...",
-											"Brrr.",
-											"Drunk...")
-	neutral_phrases = list("Fuck, shit, daa-amn...",
-											"We're fucked!",
-											"Grubrhggsmm...",
-											"Brrr.",
-											"Drunk...")
-	random_phrases = list("Fuck, shit, daa-amn...",
-											"We're fucked!",
-											"Grubrhggsmm...",
-											"Brrr.",
-											"Drunk...")
-	answer_phrases = list("Fuck, shit, daa-amn...",
-											"We're fucked!",
-											"Grubrhggsmm...",
-											"Brrr.",
-											"Drunk...")
-	help_phrases = list("Aaaugh!",
-											"AAAAHHHH!!",
-											"What the fuck? WHO'RE YOU?!",
-											"Shit!",
-											"Ass!",
-											"Dick!")
+	female_phrases = list(
+		"Droga, merda, ca-ra-lho...",
+		"Estamos ferradas!",
+		"Grubrhggsmm...",
+		"Brrr.",
+		"Bêbada..."
+	)
+	neutral_phrases = list(
+		"Droga, merda, ca-ra-lho...",
+		"Estamos ferradas!",
+		"Grubrhggsmm...",
+		"Brrr.",
+		"Bêbada..."
+	)
+	random_phrases = list(
+		"Droga, merda, ca-ra-lho...",
+		"Estamos ferradas!",
+		"Grubrhggsmm...",
+		"Brrr.",
+		"Bêbada..."
+	)
+	answer_phrases = list(
+		"Droga, merda, ca-ra-lho...",
+		"Estamos ferradas!",
+		"Grubrhggsmm...",
+		"Brrr.",
+		"Bêbada..."
+	)
+	help_phrases = list(
+		"Aaaugh!",
+		"AAAAHHHH!!",
+		"Que porra é essa? QUEM É VOCÊ?!",
+		"Merda!",
+		"Desgraça!",
+		"Idiota!"
+	)
 
 /datum/socialrole/richmale
 	s_tones = list("albino",
@@ -683,26 +690,26 @@
 					/obj/item/stack/dollar/fifty,
 					/obj/item/stack/dollar/hundred)
 
-	male_phrases = list("Did you ask something?",
-											"My stocks! my stocks! They're falling...!",
-											"You know, eventually we'll have our money on the computer, and the computer will do our taxes for us!",
-											"I'm going somewhere important... unlike you.",
-											"Get lost, filthy hobo...",
-											"Ugh, work has me up so late, they better be paying me more...",
-											"Finally quit that stupid job... so glad I moved here.")
-	neutral_phrases = list("Did you say somethin..?",
-											"Excuse me?",
-											"Hm? What is it?",
-											"I've got to get going, got somewhere important to be.",
-											"Get lost, jackass, get a job or something",
-											"Get lost, peasant...",
-											"Huh..? Sorry, the coffee hasn't kicked in.",
-											"it's the middle of the night, I don't wanna deal with your shit right now.")
-	help_phrases = list("What in the god damn?!",
-											"I'm calling the cops!",
-											"OH HELL NO.",
-											"That ain't gonna be happening to me!",
-											"Someone, call the cops!")
+	male_phrases = list("Você perguntou algo?",
+											"Minhas ações! Minhas ações! Estão caindo...!",
+											"Sabe, eventualmente teremos nosso dinheiro no computador, e o computador fará nossos impostos por nós!",
+											"Estou indo para algum lugar importante... diferente de você.",
+											"Saia daqui, mendigo imundo...",
+											"Ugh, o trabalho me deixa acordado até tarde, é bom que estejam me pagando mais...",
+											"Finalmente larguei aquele emprego idiota... tão feliz por ter me mudado para cá.")
+	neutral_phrases = list("Você disse algo..?",
+											"Com licença?",
+											"Hm? O que foi?",
+											"Preciso ir, tenho algo importante para fazer.",
+											"Saia daqui, idiota, arrume um emprego ou algo assim.",
+											"Saia daqui, plebeu...",
+											"Hã..? Desculpe, o café ainda não fez efeito.",
+											"É madrugada, não quero lidar com sua merda agora.")
+	help_phrases = list("Que diabos?!",
+											"Vou chamar a polícia!",
+											"AH NÃO, DE JEITO NENHUM.",
+											"Isso não vai acontecer comigo!",
+											"Alguém, chame a polícia!")
 
 /datum/socialrole/richfemale
 	s_tones = list("albino",
